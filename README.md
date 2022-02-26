@@ -181,8 +181,10 @@
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
 
-<!-- links -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- links -->
+
 [84.51°]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
