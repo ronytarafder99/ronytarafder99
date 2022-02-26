@@ -160,7 +160,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronytarafder99&layout=compact)](https://github.com/ronytarafder99/github-readme-stats)
 
 ## ☕ Connect with me!
-[<img src='img/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ronytarafder99)  [<img src='img/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='img/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='img/git.svg' alt='github' height='40'>](https://github.com/shovoalways)  [<img src='img/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)  
+[<img src='img/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ronytarafder99)  [<img src='img/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ronytarafder99/)  [<img src='img/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ronytarafder99)  [<img src='img/git.svg' alt='github' height='40'>](https://github.com/ronytarafder99)  [<img src='img/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ronytarafder99/)  
 
 <!-- links -->
 
