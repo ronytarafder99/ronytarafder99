@@ -22,9 +22,8 @@
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronytarafder99&show_icons=true)
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronytarafder99&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ronytarafder99&show_icons=true" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
@@ -183,7 +182,7 @@
 <!-- prettier-ignore-end -->
 
 <!-- links -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [84.51°]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
