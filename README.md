@@ -34,182 +34,155 @@
 
 <br>
 
-#### :sparkles: [My followers](src/getTopFollowers.py)
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<!--START_SECTION:top-followers-->
+> Tools, languages, and other things that I like to work with.
+
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
+      <br>C#&nbsp;(Core)
     </td>
-    <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
+      <br>Python
     </td>
-    <td align="center">
-      <a href="https://github.com/webpointdev">
-        <img src="https://avatars2.githubusercontent.com/u/88071912" width="100px;" alt="webpointdev"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br />
-      <a href="https://github.com/webpointdev">New Dragon Warrior</a>
+      <br>Go
     </td>
-    <td align="center">
-      <a href="https://github.com/lzwjava">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br />
-      <a href="https://github.com/lzwjava">lzwjava</a>
+      <br>Jsonnet
     </td>
-    <td align="center">
-      <a href="https://github.com/mashirozx">
-        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br />
-      <a href="https://github.com/mashirozx">Mashiro</a>
+      <br>TypeScript
     </td>
-    <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br />
-      <a href="https://github.com/Ir1d">Ir1dXD</a>
+      <br>JavaScript
     </td>
-    <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+      <br>React
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/zTrix">
-        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br />
-      <a href="https://github.com/zTrix">Wenlei Zhu</a>
+      <br>Bootstrap
     </td>
-    <td align="center">
-      <a href="https://github.com/Trumeet">
-        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
-      <br />
-      <a href="https://github.com/Trumeet">Yuuta Liang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gdut-yy">
-        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
-      </a>
-      <br />
-      <a href="https://github.com/gdut-yy">张逸扬</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Fantasy9527">
-        <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
-      </a>
-      <br />
-      <a href="https://github.com/Fantasy9527">{F.A.N}</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tengge1">
-        <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
-      </a>
-      <br />
-      <a href="https://github.com/tengge1">tengge1</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xtlsoft">
-        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
-      </a>
-      <br />
-      <a href="https://github.com/xtlsoft">Tianle Xu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
-      </a>
-      <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
+      <br>Sass
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/cubercsl">
-        <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="cubercsl"/>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br />
-      <a href="https://github.com/cubercsl">cubercsl</a>
+      <br>Docker
     </td>
-    <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+      <br>Kubernetes
     </td>
-    <td align="center">
-      <a href="https://github.com/Konano">
-        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br />
-      <a href="https://github.com/Konano">Nano</a>
+      <br>Debian
     </td>
-    <td align="center">
-      <a href="https://github.com/WBGlIl">
-        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
       </a>
-      <br />
-      <a href="https://github.com/WBGlIl">WBGlIl</a>
+      <br>RHEL
     </td>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+      <br>Powershell
     </td>
-    <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br />
-      <a href="https://github.com/EndlessCheng">EndlessCheng</a>
+      <br>MySQL
     </td>
-    <td align="center">
-      <a href="https://github.com/memset0">
-        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br />
-      <a href="https://github.com/memset0">whisperain</a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+      </a>
+      <br>Thanos
     </td>
   </tr>
 </table>
-<!--END_SECTION:top-followers-->
 
----
+<h2 align="left">Coding Activity</h2>
 
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
 
-<!--START_SECTION:waka-->
-```text
-C++        14 hrs 7 mins   🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.26 % 
-Markdown   10 hrs 18 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.68 % 
-Python     9 hrs 5 mins    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.61 % 
-text       4 hrs 7 mins    🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.08 % 
-Shell      3 hrs 46 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.48 % 
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
 ```
-<!--END_SECTION:waka-->
+   969.8 hr  ┤                                                                                          ╭──────── 
+   969.0 hr  ┤                                                                                          │         
+   968.2 hr  ┤                                                                                         ╭╯         
+   967.4 hr  ┤                                                                                         │          
+   966.6 hr  ┤                                                               ╭─────────────────────────╯          
+   965.8 hr  ┤                                                             ╭─╯                                    
+   965.0 hr  ┤                                                            ╭╯                                      
+   964.3 hr  ┤                                              ╭─────────────╯                                       
+   963.5 hr  ┤                                            ╭─╯                                                     
+   962.7 hr  ┤                                  ╭─────────╯                                                       
+   961.9 hr  ┤                                 ╭╯                                                                 
+   961.1 hr  ┤                                ╭╯                                                                  
+   960.3 hr  ┼────────────────────────────────╯                                                                   
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
 
----
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
 
-#### :star2: [Projects starred by me](https://github.com/maguowei/starred)
+<!-- links -->
 
-[My Awesome Stars](AWESOME-STARS.md)
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
