@@ -166,4 +166,4 @@
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[linkedin]: https://www.linkedin.com/in/ronytarafder99/ "Rony Tarafder LinkedIn"
